@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 🧑‍💻 I use languages; C, Python, Solidity.
 - 🌱 I’m currently learning blockchain security and artificial intelligence.
 - 📫 How to reach me
--    Email : cliffclimber@g.skku.edu
--    Blog : cliffclimber.tistory.com
+    Email : cliffclimber@g.skku.edu
+    Blog : cliffclimber.tistory.com
