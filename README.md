@@ -1,4 +1,4 @@
-### Hi there 👋
+# Wonyoung's Github Profile 👋
 
 <!--
 **cliffclimber-721/cliffclimber-721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi! My name is Cho Wonyoung, this is my simple introduction.
+
+- 🧑‍🎓 I graduated my Bachelor's Degree at Kyungwoon University, Department of Aeronautics of IT & Software Engineering, Gumi, South Korea.
+- 🧑‍🎓 I’m a graduate student in SKKU, interested in blockchain security.
+- 🧑‍💻 I use languages; C, Python, Solidity.
+- 🌱 I’m currently learning blockchain security and artificial intelligence.
+- 📫 How to reach me
+-    Email : cliffclimber@g.skku.edu
+-    Blog : cliffclimber.tistory.com
