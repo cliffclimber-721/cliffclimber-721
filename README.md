@@ -6,7 +6,7 @@
 
 - 🧑‍🎓 I graduated my Bachelor's Degree at Kyungwoon University, Department of Aeronautics of IT & Software Engineering, Gumi, South Korea.
 
-- 🧑‍🎓 I’m a graduate student in SKKU, Suwon, South Korea, interested in blockchain security.
+- 🧑‍🎓 I’m a graduate student in South Korea, interested in blockchain security.
 
 - 🌱 I’m currently learning blockchain security and artificial intelligence.
 
