@@ -4,11 +4,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cliffclimber-721)](https://github.com/cliffclimber-721/github-readme-stats)
 
-- 🧑‍🎓 I graduated my Bachelor's Degree at Kyungwoon University, Department of Aeronautics of IT & Software Engineering, Gumi, South Korea.
+- 🧑‍🎓 I graduated my Bachelor's Degree at 2021 from Kyungwoon University, majored in Aeronautics of IT & Software Engineering, Gumi, South Korea.
 
-- 🧑‍🎓 I’m a graduate student in South Korea, interested in blockchain security.
+- 🧑‍🎓 I’m a graduate student at Yonsei University, South Korea, interested in blockchain security.
 
-- 🌱 I’m currently learning blockchain security and artificial intelligence.
+- 🌱 I’m currently learning blockchain service systems such as Klaytn & Solana Networks, also on artificial intelligence, especially on NLP for authentication.
 
 - 🧑‍💻 Language I use; 
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me
 
-<a href="cliffclimber@g.skku.edu"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="cliffclimber721@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="cliffclimber.tistory.com"><img src="https://img.shields.io/badge/-Tistory-brown?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 - 👀 See my velog
