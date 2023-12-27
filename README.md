@@ -8,7 +8,7 @@
 
 - 🧑‍🎓 I’m a graduate student at Yonsei University, South Korea, interested in blockchain security.
 
-- 🌱 I’m currently learning blockchain service systems such as Klaytn & Solana Networks, also on artificial intelligence, especially on NLP for authentication.
+- 🌱 I’m currently studying blockchain service systems from Klaytn & Solana Networks, also on artificial intelligence, especially on NLP for authentication.
 
 - 🧑‍💻 Language I use; 
 
