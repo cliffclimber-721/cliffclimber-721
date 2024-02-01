@@ -6,7 +6,7 @@
 
 - 🧑‍🎓 I graduated my Bachelor's Degree at 2021 from Kyungwoon University, majored in Aeronautics of IT & Software Engineering, Gumi, South Korea.
 
-- 🧑‍🎓 I’m a graduate student at Yonsei University, South Korea, interested in blockchain security.
+- 🧑‍🎓 I’m a graduate student at Yonsei University, South Korea, interested in security solutions of smart contracts and NFT.
 
 - 🌱 I’m currently studying blockchain service systems from Klaytn & Solana Networks, also on artificial intelligence, especially on NLP for authentication.
 
